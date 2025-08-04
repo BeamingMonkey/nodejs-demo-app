@@ -35,4 +35,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: YOUR_DOCKERHUB_ht302/nodejs-demo-app:latest
+          tags: ht302/nodejs-demo-app:latest
